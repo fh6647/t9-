@@ -19,7 +19,7 @@
 CCTV5+赛事台,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8?$咪咕移动1080P#http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?$移动超清1080P#http://39.134.18.82:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?$移动超清1080P#http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$移动高清720P
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P#https://p.ggiptv.com/v/4k.m3u8?$全网蓝光4K#http://ye23.win/iptv/4k.cctv.php?$全网蓝光4K#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8?$咪咕移动1080P
 CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
-衛視頻道,#genre#
+🇨🇳衛視頻道,#genre#
 
 安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?$移动高清720P#rtsp://221.203.83.35/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil?$联通超清1080P#http://111.20.41.252:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/1.m3u8?$移动超清1080P#http://39.135.55.7:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1?$移动超清1080P#http://117.148.179.177:80/PLTV/88888888/224/3221230215/1.m3u8?$咪咕移动1080P
 北京卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil?$联通超清1080P#http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8?$全网超清1080P#http://39.134.65.175/PLTV/88888888/224/3221225678/index.m3u8?$移动蓝光1080P#http://111.20.41.249:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8?$移动超清1080P#http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8?$电信高清720P#http://117.148.179.168:80/PLTV/88888888/224/3221231732/index.m3u8?$咪咕移动1080P
@@ -174,7 +174,7 @@ CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1
 
-4K频道,#genre#
+🇨🇳4K频道,#genre#
 cctt-4K,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/ys4Kcq.m3u8 $4K
 超高清电影,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/emdy4k_8000.m3u8 $4K
 CCTV4K,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
@@ -203,7 +203,7 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
-广东地区,#genre#
+🇨🇳广东地区,#genre#
 
 广东房产,http://hongyanqiang.top/chudian.php?id=gdfc
 广东公共,http://hongyanqiang.top/chudian.php?id=gdgg
