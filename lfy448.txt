@@ -361,14 +361,11 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 TVB翡翠台,http://120.84.96.20:808/hls/25/index.m3u8
 TVB明珠台,http://120.84.96.20:808/hls/26/index.m3u8
-
-TVB无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
-TVB无线财经,http://hls.dszbdq.cn/d/wxtv2.php?id=2
-
 J2,https://pull-hls-l1.ixigua.com/live/0f43695346906545b82ca9328ac307ab/playlist.m3u8
 J2,http://120.84.96.42:808/hls/86/index.m3u8
 J2,http://120.84.96.31:808/hls/86/index.m3u8
 
+TVB无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=1#P2p://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts#P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
 TVB无线新闻,http://livesec.mudu.tv/watch/0t5ejs.m3u8
 
