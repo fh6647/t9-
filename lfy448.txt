@@ -176,18 +176,16 @@ CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u
 
 🇨🇳4K频道,#genre#
 
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
-CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV4K,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV4K,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zzhongd
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV4K,http://ye23.win/iptv/4k.cctv.php
 CCTV4K,http://117.148.179.157/PLTV/88888888/224/3221233400/index.m3u8
-CCTV4K,http://live.tvfix.org/hls/cctv4k.m3u8
 CCTV4K,http://39.135.55.13:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 CCTV4K,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV4K,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV4K,http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
@@ -201,20 +199,14 @@ IPTV4k电影,http://223.145.212.78:12345/udp/239.76.252.35:9000
 
 MIGU4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
 
-爱上4k,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
-爱上4K,http://39.134.19.234:6610/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 爱上4K,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-爱上4K,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
-爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4K,http://xingyang.net.cn:4000/udp/225.1.4.162:1204
 爱上4K,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1
 爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 
-4K超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-4K超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zzhongd
-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 纯享4k,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 纯享4k,http://39.135.49.209:6610/PLTV/88888888/224/3221226825/1.m3u8?servicetype=1
 纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
@@ -227,10 +219,10 @@ MIGU4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
 南国都市4K,https://aplay.gztv.com/sec/shenghuos.m3u8
 南国都市4K,https://aplay.gztv.com/sec/shenghuos.flv
 
-芒果TV 16M2160,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-纯享4K 16M2160,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+芒果TV4k,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+纯享4k,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 
-纯享4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1#http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8#http://39.135.46.229:6610/PLTV/77777777/224/3221225726/index.m3u8?#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1#http://39.135.47.100:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+纯享4k,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1#http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8#http://39.135.46.229:6610/PLTV/77777777/224/3221225726/index.m3u8?#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1#http://39.135.47.100:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 CCTV4K,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/ys4Kcq.m3u8 $4K
