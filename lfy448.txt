@@ -385,6 +385,24 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 TVB翡翠台,http://120.84.96.20:808/hls/25/index.m3u8
 TVB明珠台,http://120.84.96.20:808/hls/26/index.m3u8
+
+TVB翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+TVB翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+TVB翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
+TVB翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
+TVB剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+TVB无线新闻,http://ye23.win/iptv/tvb.php?id=1
+
+TVB J2,https://h.youtalk.top/hkj2b/49.m3u8
+TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
+TVB J2,http://120.84.96.32:808/hls/86/index.m3u8
+TVB J2,https://tx-b2.xsafetech.com/live/11666.m3u8
+TVB J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+TVB J2,https://bf.kanjc.com/11666/11666.m3u8
+TVB J2 -01,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+TVB J2(备),https://live.hkanime.com.hk/xxxx/82/index.m3u8
+
 J2,https://pull-hls-l1.ixigua.com/live/0f43695346906545b82ca9328ac307ab/playlist.m3u8
 J2,http://120.84.96.42:808/hls/86/index.m3u8
 J2,http://120.84.96.31:808/hls/86/index.m3u8
@@ -428,6 +446,9 @@ CHC家庭影院,http://120.84.96.20:808/hls/45/index.m3u8
 年代新闻,http://220.134.196.147:11380/http/116.50.42.18:8081/hls/67/809/ch27.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 东森新闻,http://220.134.196.147:11385/http/116.50.42.18:8081/hls/63/805/ch10.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 中天新闻,http://220.134.196.147:11390/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 TVBS新闻,https://dm1036.kglink.xyz/live/tw08
 寰宇新聞,https://dm1036.kglink.xyz/live/tw02
