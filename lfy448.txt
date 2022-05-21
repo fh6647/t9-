@@ -368,6 +368,56 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 珠海综合,http://dslive.grtn.cn/zhzh/sd/live.m3u8
 综合频道,http://ai5619227.v2.aihost6.top/daili.php?/GZTV/zhonghe.m3u8 
 
+🇭🇰香港,#genre#
+
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
+J2台,https://cdn.hklive.tv/hls/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/hls/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
+
+港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
+
+香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/hls/76/index.m3u8
+
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
+ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
+
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+NOW 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
+NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+
+
+🇲🇴澳門,#genre#
+
+澳视澳门,http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8 
+澳視葡語,http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8 
+澳视卫星,http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8 
+澳视体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8 
+澳视资讯,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8 
+澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+
+澳視澳門-B,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+澳視葡文-B,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+澳視衛星-B,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳視體育-B,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳視資訊-B,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+澳視綜藝+B,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+
+RTHK31-B,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32-B,http://livetv.dnsfor.me:80/channel.2.m3u8
+無綫新聞台-B,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台-B,http://livetv.dnsfor.me:80/channel.11.m3u8
+
 🇭🇰港台测试,#genre#
 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?$全网高清720P#http://39.135.49.209:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1?$移动超清1080P
