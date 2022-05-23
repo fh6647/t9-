@@ -492,6 +492,13 @@ CHC动作电影,http://120.84.96.20:808/hls/31/index.m3u8
 
 CHC家庭影院,http://120.84.96.20:808/hls/45/index.m3u8
 
+寰宇新闻台,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
+中天新闻台,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+台视新闻,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
+三立inwes,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+东森LIVE,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
+民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
 华视新闻,http://220.134.196.147:11375/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 年代新闻,http://220.134.196.147:11380/http/116.50.42.18:8081/hls/67/809/ch27.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 东森新闻,http://220.134.196.147:11385/http/116.50.42.18:8081/hls/63/805/ch10.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
