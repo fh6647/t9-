@@ -384,7 +384,6 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
