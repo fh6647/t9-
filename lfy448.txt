@@ -393,11 +393,9 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
 
-J2,http://120.84.96.42:808/hls/86/index.m3u8
 J2,https://cdn.hklive.tv/hls/82/index.m3u8
 
-J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
+
 
 明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
 明珠台 ,https://cdn.hklive.tv/hls/84b/index.m3u8
