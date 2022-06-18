@@ -370,70 +370,64 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 🇭🇰香港,#genre#
 
-凤凰中文,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=02
-凤凰资讯,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=03
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?$全网高清720P
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?$全网高清720P#http://39.135.49.209:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1?$移动超清1080P
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?$全网高清720P
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
-凤凰中文,http://anren.live/HK/AQtU.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://v.mp.haue.edu.cn/hls/fhzw.m3u8#P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
-凤凰资讯,http://anren.live/HK/AQtQ.m3u8#https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://v.mp.haue.edu.cn/hls/fhzx.m3u8#P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
-凤凰电影,http://v.mp.haue.edu.cn/hls/fhdy.m3u8
-
-凤凰中文,http://120.84.96.20:808/hls/29/index.m3u8
-凤凰资讯,http://120.84.96.20:808/hls/28/index.m3u8
-凤凰香港,http://120.84.96.20:808/hls/81/index.m3u8
-
-TVB翡翠台,http://120.84.96.20:808/hls/25/index.m3u8
-TVB明珠台,http://120.84.96.20:808/hls/26/index.m3u8
-
-TVB翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-TVB翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-TVB翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
-TVB翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
-TVB剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-TVB无线新闻,http://ye23.win/iptv/tvb.php?id=1
-
-TVB J2,https://h.youtalk.top/hkj2b/49.m3u8
-TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
-TVB J2,http://120.84.96.32:808/hls/86/index.m3u8
-TVB J2,https://tx-b2.xsafetech.com/live/11666.m3u8
-TVB J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-TVB J2,https://bf.kanjc.com/11666/11666.m3u8
-TVB J2 -01,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-TVB J2(备),https://live.hkanime.com.hk/xxxx/82/index.m3u8
-
-J2,https://pull-hls-l1.ixigua.com/live/0f43695346906545b82ca9328ac307ab/playlist.m3u8
-J2,http://120.84.96.42:808/hls/86/index.m3u8
-J2,http://120.84.96.31:808/hls/86/index.m3u8
-
-TVB无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=1#P2p://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts#P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
-TVB无线新闻,http://livesec.mudu.tv/watch/0t5ejs.m3u8
-
-TVB无线新闻,http://ye23.win/iptv/tvb.php?id=1
-TVB无线财经,http://ye23.win/iptv/tvb.php?id=2
-
-香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线新闻,http://ye23.win/iptv/tvb.php?id=5
-无线新闻,http://ye23.win/iptv/tvb.php?id=4
-无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
-無限新聞台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=09
-無限財經資訊台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=10
-鳳凰衛視中文HD,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=14
-香港電視台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=20
+无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
+
+无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
+
+无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
+
+J2,http://120.84.96.42:808/hls/86/index.m3u8
+J2,https://cdn.hklive.tv/hls/82/index.m3u8
+
+J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
+
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+明珠台 ,https://cdn.hklive.tv/hls/84b/index.m3u8
+
+港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+
+香港國際財經,https://cdn.hklive.tv/hls/76/index.m3u8
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有线财经,http://livetv.dnsfor.me:80/channel.6.m3u8
+有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线直播,http://livetv.dnsfor.me:80/channel.7.m3u8
+
+NOW财经,http://livetv.dnsfor.me:80/channel.8.m3u8
+
+剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
+ViuTV Six ,https://cdn.hklive.tv/hls/96b/index.m3u8
+
+无线新闻,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=09
+无线财经,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=10
+凤凰中文,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=14
+香港电视,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=20
 有线新闻,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=24
-香港有線18台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=25
+有线18,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=25
 有线603,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=26
 有线体育,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=27
 
