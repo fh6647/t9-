@@ -420,18 +420,6 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
-翡翠台,http://139.227.62.63:61985/hlsok/892debf01/index.m3u8
-翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
-翡翠台,http://www.teyond.cn/iptv/9/tyzb01.php?id=1350_4500
-明珠台,http://www.teyond.cn/iptv/9/tyzb01.php?id=1351_4500
-明珠台,http://139.227.62.63:61985/hlsok/df1763cf9/index.m3u8
-明珠台,http://120.84.96.33:808/hls/26/index.m3u8
-无线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
-有线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
-无线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
-有线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
-J2,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
-
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
