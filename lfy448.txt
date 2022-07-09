@@ -432,6 +432,11 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 翡翠台,https://epg.pm/stream/a95afa9eccf6002d2ae4f796d45c9a1d522c7de95db668f16cc75b76adc7a96d.m3u8
 
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线财经,http://ye23.win/iptv/tvb.php?id=2
+无线新闻,http://ye23.win/iptv/tvb.php?id=4
+无线新闻,http://ye23.win/iptv/tvb.php?id=5
+
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 
 无线财经,http://livetv.dnsfor.me:80/channel.11.m3u8
@@ -439,6 +444,10 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+
+有线新闻,https://api.leonardpark.dev/live/icable/109
+有线财经,https://api.leonardpark.dev/live/icable/108
+有线直播,https://api.leonardpark.dev/live/icable/110
 
 有线财经,http://livetv.dnsfor.me:80/channel.6.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
