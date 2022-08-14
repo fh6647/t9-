@@ -470,6 +470,11 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 有线财经,http://livetv.dnsfor.me:80/channel.6.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+NOW新闻,http://live.cooltv.top/tv/now.php?id=332
+NOW财经,http://live.cooltv.top/tv/now.php?id=333
+NOW直播,http://live.cooltv.top/tv/now.php?id=331
+
 NOW体育,http://livetv.dnsfor.me:80/channel.12.m3u8
 NOW新闻,http://livetv.dnsfor.me:80/channel.4.m3u8
 NOW直播,http://livetv.dnsfor.me:80/channel.3.m3u8
